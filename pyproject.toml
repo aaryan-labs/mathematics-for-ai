@@ -3,5 +3,9 @@ name = "github"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
+    "jupyterlab",
+    "matplotlib",
     "mkdocs-material>=9.8.0",
+    "numpy",
+    "sympy",
 ]
